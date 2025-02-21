@@ -1,0 +1,6 @@
+{
+	"appId": "dioko.app.transfert",
+	"appName": "Dioko",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
